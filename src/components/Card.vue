@@ -16,5 +16,8 @@
 </script>
 
 <style scoped>
-
+    .card {
+        width: 18rem;
+        margin: .5rem;
+    }
 </style>
